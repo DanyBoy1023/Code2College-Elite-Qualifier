@@ -1,7 +1,7 @@
 import time
 
 """
-This program uses the Jaccard Index to determine the similarity between the imputed word and all of the words in teh txt file
+This program uses the Jaccard Index to determine the similarity between the inputed word and all of the words in the txt file
 """
 # load dictionary words from file
 def load_words():
