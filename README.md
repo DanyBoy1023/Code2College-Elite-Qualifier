@@ -21,9 +21,6 @@ Instal [python](https://www.python.org) on your computer.
 These are the steps to use the application or interact with it.
 
 ### Any optional sections
-<<<<<<< HEAD
-Test conflict for C2C
-=======
 
 The code for this program is amazing
 
@@ -33,4 +30,4 @@ To test the project:
 
 1.  Run the test
 2.  Check the results
-3.  Test conflict for C2C
+3.  Test conflict for C2C (resolved)
