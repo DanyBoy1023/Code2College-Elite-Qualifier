@@ -22,6 +22,8 @@ These are the steps to use the application or interact with it.
 
 ### Any optional sections
 
+The code for this program is amazing
+
 ## Test Plan
 
 To test the project:
